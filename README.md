@@ -1,7 +1,7 @@
 # Number distributor
 
 
-The script ```distributor.js``` allows you to match numbers against names. For instance, it may be used for exam tickets distribution. It uses SHA-3 algorithm, which allows to change numbers dramatically.
+The script ```distributor.js``` allows you to match numbers against names. For instance, it may be used for exam tickets distribution. It uses SHA-3 algorithm, which allows to change numbers dramatically. The larger data is, the сloser distribution to uniform.
 
 ## Usage:
 Preliminarily execute: 
